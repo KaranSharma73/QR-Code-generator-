@@ -1,5 +1,5 @@
 :root {
-    --baseColor: #606468;
+    --baseColor: #343535;
   }
   
   .grid {
@@ -197,4 +197,7 @@
   {
   max-width: 100%;
   max-height: 100%;
+  }
+  .ok{
+    background-color: #eee;
   }
