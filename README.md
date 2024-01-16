@@ -1,2 +1,2 @@
-QR Code Generator with the help of HTML , CSS Javascript 
+QR Code Generator with the help of HTML,CSS Javascript 
 Author - KARAN SHARMA
